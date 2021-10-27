@@ -1,2 +1,2 @@
 # hello-world
-My first repo
+Hello, this is zemezewo's first commit.e
